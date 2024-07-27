@@ -1,0 +1,29 @@
+img{
+  height:60%;
+  width: 60%;
+}
+.header{
+  height: 56px;
+  width: 100%;
+  box-shadow: 0 0 10px #dddddd;
+  background-color: white;
+  position: fixed;
+  top: 0;
+}
+.header-right{
+  float: right;
+}
+.header-right a{
+  font-size: 16px;
+  padding: 16px 5px;
+  line-height: 56px;
+  color: #5a5c5f;
+  margin-left: 5px;
+}
+.header-right a:hover{
+  background-color: #e2f1ff;
+}
+p{
+  color: #fda036;
+  font-size: 60px;
+}

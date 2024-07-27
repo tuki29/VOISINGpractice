@@ -1,0 +1,36 @@
+h4{
+  color: red;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+h5{
+  color: rgb(0, 255, 242);
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+h6{
+  color: rgb(153, 0, 255);
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+h7{
+  color: rgb(255, 0, 191);
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+h8{
+  color: rgb(4, 0, 255);
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+h9{
+  color: rgb(251, 255, 0);
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
